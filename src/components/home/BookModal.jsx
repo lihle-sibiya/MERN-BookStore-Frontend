@@ -28,7 +28,7 @@ const BookModal = ({ book, onClose }) => {
           <BiUserCircle className='text-red-300 text-2xl' />
           <h2 className='my-1'>{book.author}</h2>
         </div>
-        <p className='mt-4'>Interesting facts about reading</p>
+        <p className='mt-4'>Interesting facts about reading!</p>
         <p className='my-2'>
           The culture of reading books has a rich and diverse history. Here are some intriguing facts about the culture of reading:
         </p>
