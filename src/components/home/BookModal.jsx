@@ -28,27 +28,27 @@ const BookModal = ({ book, onClose }) => {
           <BiUserCircle className='text-red-300 text-2xl' />
           <h2 className='my-1'>{book.author}</h2>
         </div>
-        <p className='mt-4'>Interestign facts about reading</p>
+        <p className='mt-4'>Interesting facts about reading</p>
         <p className='my-2'>
           The culture of reading books has a rich and diverse history, and there are many interesting facts and aspects associated with it. Here are some intriguing facts about the culture of reading:
 
 
-          1. Bibliomania: There is a term called "bibliomania" that describes an obsessive and uncontrollable love for books. This condition has affected numerous famous individuals throughout history.
+          <p>1. Bibliomania: There is a term called "bibliomania" that describes an obsessive and uncontrollable love for books. This condition has affected numerous famous individuals throughout history.</p>
 
 
-          2. Bookplates: Bookplates are decorative labels affixed to the inside cover of a book, often indicating ownership. They have been used for centuries as a way to personalize and protect one's books.
+          <p>2. Bookplates: Bookplates are decorative labels affixed to the inside cover of a book, often indicating ownership. They have been used for centuries as a way to personalize and protect one's books.</p>
 
 
-          3. Book Cafes: Book cafes have become popular in many countries, offering a blend of literature and coffee. They provide a cozy atmosphere for reading and often host book-related events and discussions.
+          <p>3. Book Cafes: Book cafes have become popular in many countries, offering a blend of literature and coffee. They provide a cozy atmosphere for reading and often host book-related events and discussions.</p>
 
 
-          4. eBooks and Digital Reading: The advent of eBooks and eReaders, such as the Kindle, has transformed the way people read books. It has made reading more portable and convenient for many.
+          <p>4. eBooks and Digital Reading: The advent of eBooks and eReaders, such as the Kindle, has transformed the way people read books. It has made reading more portable and convenient for many.</p>
 
 
-          5. Book Swaps: Book swapping or sharing is a popular practice where people exchange books they have already read with others, promoting a sense of community and resource sharing.
+          <p>5. Book Swaps: Book swapping or sharing is a popular practice where people exchange books they have already read with others, promoting a sense of community and resource sharing.</p>
 
 
-          6. The Power of Reading: Studies have shown that reading can reduce stress, improve empathy, enhance vocabulary, and increase knowledge. It is also a common therapeutic tool for bibliotherapy.
+          <p>6. The Power of Reading: Studies have shown that reading can reduce stress, improve empathy, enhance vocabulary, and increase knowledge. It is also a common therapeutic tool for bibliotherapy.</p>
         </p>
       </div>
     </div>
