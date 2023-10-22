@@ -30,17 +30,12 @@ const BookModal = ({ book, onClose }) => {
         </div>
         <p className='mt-4'>Interesting facts about reading</p>
         <p className='my-2'>
-          The culture of reading books has a rich and diverse history, and there are many interesting facts and aspects associated with it. Here are some intriguing facts about the culture of reading:
+          The culture of reading books has a rich and diverse history. Here are some intriguing facts about the culture of reading:
         </p>
 
         <p>1. The Power of Reading: Studies have shown that reading can reduce stress, improve empathy, enhance vocabulary, and increase knowledge. It is also a common therapeutic tool for bibliotherapy.</p>
 
-
         <p>2. Bibliomania: There is a term called "bibliomania" that describes an obsessive and uncontrollable love for books. This condition has affected numerous famous individuals throughout history.</p>
-
-        <p>3. Book Swaps: Book swapping or sharing is a popular practice where people exchange books they have already read with others, promoting a sense of community and resource sharing.</p>
-
-        <p>4. eBooks and Digital Reading: The advent of eBooks and eReaders, such as the Kindle, has transformed the way people read books. It has made reading more portable and convenient for many.</p>
       </div>
     </div>
   );
