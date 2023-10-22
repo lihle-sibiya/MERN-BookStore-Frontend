@@ -30,12 +30,19 @@ const BookModal = ({ book, onClose }) => {
         </div>
         <p className='mt-4'>Anything You want to show</p>
         <p className='my-2'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quia
-          voluptatum sint. Nisi impedit libero eveniet cum vitae qui expedita
-          necessitatibus assumenda laboriosam, facilis iste cumque a pariatur
-          nesciunt cupiditate voluptas? Quis atque earum voluptate dolor nisi
-          dolorum est? Deserunt placeat cumque quo dicta architecto, dolore
-          vitae voluptate sequi repellat!
+          The culture of reading books has a rich and diverse history, and there are many interesting facts and aspects associated with it. Here are some intriguing facts about the culture of reading:
+
+          Bibliomania: There is a term called "bibliomania" that describes an obsessive and uncontrollable love for books. This condition has affected numerous famous individuals throughout history.
+
+          Bookplates: Bookplates are decorative labels affixed to the inside cover of a book, often indicating ownership. They have been used for centuries as a way to personalize and protect one's books.
+
+          Book Cafes: Book cafes have become popular in many countries, offering a blend of literature and coffee. They provide a cozy atmosphere for reading and often host book-related events and discussions.
+
+          eBooks and Digital Reading: The advent of eBooks and eReaders, such as the Kindle, has transformed the way people read books. It has made reading more portable and convenient for many.
+
+          Book Swaps: Book swapping or sharing is a popular practice where people exchange books they have already read with others, promoting a sense of community and resource sharing.
+
+          The Power of Reading: Studies have shown that reading can reduce stress, improve empathy, enhance vocabulary, and increase knowledge. It is also a common therapeutic tool for bibliotherapy.
         </p>
       </div>
     </div>
